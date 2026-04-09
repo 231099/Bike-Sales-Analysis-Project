@@ -52,3 +52,6 @@ Commute Distance: Customers with a commute of 0-1 miles are the most likely to p
 
 Age Demographics: The Middle Age group represents the largest segment of bike buyers, followed by the Old and Adolescent categories
 </p>
+
+##  Dashboard Preview
+![Dashboard](images/Dashboard.png)
